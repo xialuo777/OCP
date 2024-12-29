@@ -12,4 +12,5 @@ public class Question61 <T extends Worker> {
     public void run(){
         processes.forEach((p)->p.doProcess());
     }
+
 }
